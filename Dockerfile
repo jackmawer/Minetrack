@@ -12,4 +12,4 @@ RUN npm ci --only=production
 
 EXPOSE 80
 
-CMD ["node","index.js"]
+CMD ["node","app.js"]
